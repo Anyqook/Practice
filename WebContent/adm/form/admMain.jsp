@@ -4,11 +4,8 @@
 <!DOCTYPE html>
 
 <!-- 로그인 한 페이지(이거)랑 안 한 페이지(admMain) 합쳐서 admMain 페이지  하나로 하면 될 것 같아요 -->
-<<<<<<< HEAD
 <!-- ㅇ재아 -->
-=======
 <!-- ㅈㅇㅁ -->
->>>>>>> b562e2cddfc9244a4b8a44ce01f44dc54b929777
 <html>
 <head>
   <title></title>
